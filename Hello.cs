@@ -11,6 +11,7 @@ namespace Program
         static void Main(string[] args)
         {
           Console.WriteLine("Helloworld!");
+          Console.WriteLine("I love oppai")
         }
       }
   }
